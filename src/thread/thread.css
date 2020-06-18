@@ -1,0 +1,22 @@
+.thread {
+	width: 600px;
+	margin-bottom: 32px;
+}
+
+.thread .message {
+	display: flex;
+}
+
+.thread .reply-to {
+	margin-bottom: 8px;
+	cursor: pointer;
+}
+
+.thread .replies .reply {
+	padding-top: 8px;
+	display: flex;
+}
+
+.thread .replies .reply .reply-message {
+	align-self: center;
+}

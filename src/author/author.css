@@ -1,0 +1,17 @@
+.author {
+	display: flex;
+	align-items: flex-start;
+	flex-direction: row;
+	padding: 0 4px;
+}
+
+.author .author-name {
+	font-weight: bold;
+	margin: 0 4px;
+}
+
+.author img {
+	width: 16px;
+	height: 16px;
+	border-radius: 8px;
+}
